@@ -9,5 +9,12 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="APIFramework-0.0.1-SNAPSHOT" level="project" />
     <orderEntry type="module" module-name="main" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.cucumber:cucumber-junit:4.8.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.rest-assured:rest-assured:4.1.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.rest-assured:json-path:4.1.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.cucumber:cucumber-java:4.8.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.cucumber:cucumber-junit:6.10.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.cucumber:cucumber-core:6.10.2" level="project" />
   </component>
 </module>
